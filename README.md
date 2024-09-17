@@ -1,4 +1,4 @@
-## Amazon Dataset
+## Amazon Dataset ##
 
 #
 Amazon is one of the biggest online retailer in the USA that sells over 12 million products.
@@ -6,7 +6,7 @@ With this dataset, you can get an in-depth idea of what products sell best, whic
 the most sales, the best price range for a product in a given category, and much more.
 #
 
-# Interesting Task Ideas: #
+# Interesting Task Ideas: 
 1. Uncover trending product categories and their sale performance.
 2. Analyze customer ratings to find top-rated products.
 3. Train a product title generator that can generate sales-worthy product titles based on      product with the most sales.
